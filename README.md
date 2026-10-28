@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="mailto:charlesjansenmanusig@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a>
-  <a href="https://github.com/varon1c"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"></a>
+  <a href="https://varon1c.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=githubpages&logoColor=FFFFFF" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/charles-manusig-025b12334/"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>
 </p>
 
